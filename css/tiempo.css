@@ -1,24 +1,4 @@
-/* 
-TIEMPO 1.0.1
-HANDCRAFTED BY HAUNDO DESIGN
-http://haundodesign.com
 
-TYPOGRAPHY
-GLOBAL
-LAYOUT
-  NAVIGATION
-  CONTENT
-  HEADER
-  MAIN
-  FOOTER
-MISC
-  BUTTONS
-  FORMS
-  ICONS
-  CUSTOMS
-  ANIMATIONS
-  MEDIA QUERIES
-*/
 
 /* =TYPOGRAPHY */
   body {
@@ -317,6 +297,12 @@ MISC
         -ms-transform    : translateY(-50%);
         -o-transform     : translateY(-50%);
         transform        : translateY(-50%);
+      }
+      .daysWrapper {
+        color:DodgerBlue
+      }
+      .hoursWrapper {
+        color:MediumSeaGreen
       }
 
       .days,
