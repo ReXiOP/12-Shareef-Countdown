@@ -304,6 +304,13 @@
       .hoursWrapper {
         color:MediumSeaGreen
       }
+.secondsWrapper {
+  color:Green
+
+}
+.minutesWrapper{
+  color:springgreen
+}
 
       .days,
       .hours,
