@@ -8,7 +8,7 @@ http://haundodesign.com
   "use strict";
 
   var settings = {
-    date            : 'September 27, 2023 17:28',
+    date            : 'September 15, 2024 18:00',
     url             : '',
     skin            : 'dark',
     background      : 'slides',
